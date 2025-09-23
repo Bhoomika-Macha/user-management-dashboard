@@ -73,7 +73,7 @@ This project demonstrates skills in **front-end development**, focusing on:
 
 ### 🌍 Deployed Link
 
-🔗 Live Demo on Vercel
+Live Demo on Vercel [https://vercel.com/bhoomikas-projects-f879bbe0/user-management-dashboard]
 
 ### 🔎 API Endpoints Used
 
