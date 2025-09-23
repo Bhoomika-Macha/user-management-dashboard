@@ -1,0 +1,26 @@
+{
+  "courses": [
+    "B.Tech Computer Science",
+    "B.Tech Electronics",
+    "B.Tech Information Technology",
+    "B.Tech Electrical Engineering",
+    "B.Tech Civil Engineering",
+    "B.Tech Mechanical",
+    "B.Sc Mathematics",
+    "B.Sc Physics",
+    "B.Com Accounting",
+    "B.Tech Artificial Intelligence"
+  ],
+  "users": [
+    { "name": "Priya Sharma", "course": "B.Tech Computer Science" },
+    { "name": "Rohan Mehta", "course": "B.Tech Electronics" },
+    { "name": "Ananya Reddy", "course": "B.Tech Information Technology" },
+    { "name": "Karthik Iyer", "course": "B.Tech Electrical Engineering" },
+    { "name": "Sneha Nair", "course": "B.Tech Civil Engineering" },
+    { "name": "Arjun Singh", "course": "B.Tech Mechanical" },
+    { "name": "Divya Kulkarni", "course": "B.Sc Mathematics" },
+    { "name": "Manish Gupta", "course": "B.Sc Physics" },
+    { "name": "Neha Choudhary", "course": "B.Com Accounting" },
+    { "name": "Vivek Das", "course": "B.Tech Artificial Intelligence" }
+  ]
+}
