@@ -73,7 +73,7 @@ This project demonstrates skills in **front-end development**, focusing on:
 
 ### 🌍 Deployed Link
 
-🔗 Live Demo on Vercel
+Live Demo on Vercel [https://user-management-dashboard-snowy-rho.vercel.app/]
 
 ### 🔎 API Endpoints Used
 
@@ -104,24 +104,24 @@ Documentation: Complete README with setup, usage, and reflections.
 Efficiency: Pagination and filtering ensure efficient data handling.
 
 ### 🔎 Reflections
-### ✅ Challenges Faced
+  ### ✅ Challenges Faced
+  
+  Handling asynchronous API calls with simulated responses.
+  
+  Designing a clean, responsive UI that works across devices.
+  
+  Implementing sorting arrows and toggling them correctly.
+  
+  Maintaining state management for search, filters, and pagination.
 
-Handling asynchronous API calls with simulated responses.
-
-Designing a clean, responsive UI that works across devices.
-
-Implementing sorting arrows and toggling them correctly.
-
-Maintaining state management for search, filters, and pagination.
-
-### 🚀 Improvements (if more time)
-
-Add Dark Mode toggle for better UX.
-
-Replace mock API with a real backend & database.
-
-Implement user authentication (login/logout).
-
-Add toast notifications (success/error) instead of plain alerts.
-
-Enhance UI further with a design library like Material UI or Tailwind.
+  ### 🚀 Improvements (if more time)
+  
+  Add Dark Mode toggle for better UX.
+  
+  Replace mock API with a real backend & database.
+  
+  Implement user authentication (login/logout).
+  
+  Add toast notifications (success/error) instead of plain alerts.
+  
+  Enhance UI further with a design library like Material UI or Tailwind.
