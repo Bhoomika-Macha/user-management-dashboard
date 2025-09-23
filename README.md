@@ -58,24 +58,25 @@ This project demonstrates skills in **front-end development**, focusing on:
 ## ⚡ Getting Started
 
 ### 1. Clone the repository
-  ```bash
-      git clone https://github.com/Bhoomika-Macha/user-management-dashboard.git
-      cd user-management-dashboard
+```bash
+git clone https://github.com/Bhoomika-Macha/user-management-dashboard.git
+cd user-management-dashboard
 
-### 2. Install dependencies
-  ```bash
-      npm install
+__2. Install dependencies__
+```bash
+npm install
 
-### 3. Run locally
-  ```bash
-      npm start
+__3. Run locally__
+```bash
+npm start
 App will be available at http://localhost:3000
 
-## 🌍 Deployed Link
-Live Demo on Vercel
+🌍 Deployed Link
 
-## 🔎API Endpoints Used
- 
+🔗 Live Demo on Vercel
+
+🔎 API Endpoints Used
+
 GET /users → Fetch all users
 
 POST /users → Add new user (simulated)
@@ -86,7 +87,7 @@ DELETE /users/:id → Delete user (simulated)
 
 ℹ️ Note: JSONPlaceholder simulates success but does not persist data permanently.
 
-## 🧪 Code Evaluation Criteria
+🧪 Code Evaluation Criteria
 
 This submission meets all the criteria:
 
@@ -102,8 +103,8 @@ Documentation: Complete README with setup, usage, and reflections.
 
 Efficiency: Pagination and filtering ensure efficient data handling.
 
-## 🔎 Reflections
-## ✅ Challenges Faced
+🔎 Reflections
+✅ Challenges Faced
 
 Handling asynchronous API calls with simulated responses.
 
@@ -113,7 +114,7 @@ Implementing sorting arrows and toggling them correctly.
 
 Maintaining state management for search, filters, and pagination.
 
-## 🚀 Improvements (if more time)
+🚀 Improvements (if more time)
 
 Add Dark Mode toggle for better UX.
 
@@ -124,4 +125,3 @@ Implement user authentication (login/logout).
 Add toast notifications (success/error) instead of plain alerts.
 
 Enhance UI further with a design library like Material UI or Tailwind.
-
