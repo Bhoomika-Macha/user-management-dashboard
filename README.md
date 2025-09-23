@@ -59,17 +59,17 @@ This project demonstrates skills in **front-end development**, focusing on:
 
   ### 1. Clone the repository
     ```bash
-      git clone https://github.com/Bhoomika-Macha/user-management-dashboard.git
-      cd user-management-dashboard
+    git clone https://github.com/Bhoomika-Macha/user-management-dashboard.git
+    cd user-management-dashboard
 
   ### 2. Install dependencies
     ```bash
-      npm install
+    npm install
 
   ### 3. Run locally
     ```bash
-      npm start
-      App will be available at http://localhost:3000
+    npm start
+    App will be available at http://localhost:3000
 
 ### 🌍 Deployed Link
 
