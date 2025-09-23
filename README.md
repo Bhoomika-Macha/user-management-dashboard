@@ -1,4 +1,4 @@
-# 👥 User Management Dashboard
+# User Management Dashboard
 
 ## 📌 Objective
 The primary goal of this assignment is to develop a functional web application that serves as a **User Management Dashboard**.  
