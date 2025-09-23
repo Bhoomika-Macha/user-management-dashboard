@@ -73,7 +73,7 @@ This project demonstrates skills in **front-end development**, focusing on:
 
 ### 🌍 Deployed Link
 
-Live Demo on Vercel [https://user-management-dashboard-snowy-rho.vercel.app/]
+🔗 Live Demo on Vercel
 
 ### 🔎 API Endpoints Used
 
