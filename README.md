@@ -57,25 +57,25 @@ This project demonstrates skills in **front-end development**, focusing on:
 
 ## ⚡ Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/Bhoomika-Macha/user-management-dashboard.git
-cd user-management-dashboard
+  ### 1. Clone the repository
+    ```bash
+      git clone https://github.com/Bhoomika-Macha/user-management-dashboard.git
+      cd user-management-dashboard
 
-__2. Install dependencies__
-```bash
-npm install
+  ### 2. Install dependencies
+    ```bash
+      npm install
 
-__3. Run locally__
-```bash
-npm start
-App will be available at http://localhost:3000
+  ### 3. Run locally
+    ```bash
+      npm start
+      App will be available at http://localhost:3000
 
-🌍 Deployed Link
+### 🌍 Deployed Link
 
 🔗 Live Demo on Vercel
 
-🔎 API Endpoints Used
+### 🔎 API Endpoints Used
 
 GET /users → Fetch all users
 
@@ -87,7 +87,7 @@ DELETE /users/:id → Delete user (simulated)
 
 ℹ️ Note: JSONPlaceholder simulates success but does not persist data permanently.
 
-🧪 Code Evaluation Criteria
+### 🧪 Code Evaluation Criteria
 
 This submission meets all the criteria:
 
@@ -103,8 +103,8 @@ Documentation: Complete README with setup, usage, and reflections.
 
 Efficiency: Pagination and filtering ensure efficient data handling.
 
-🔎 Reflections
-✅ Challenges Faced
+### 🔎 Reflections
+### ✅ Challenges Faced
 
 Handling asynchronous API calls with simulated responses.
 
@@ -114,7 +114,7 @@ Implementing sorting arrows and toggling them correctly.
 
 Maintaining state management for search, filters, and pagination.
 
-🚀 Improvements (if more time)
+### 🚀 Improvements (if more time)
 
 Add Dark Mode toggle for better UX.
 
